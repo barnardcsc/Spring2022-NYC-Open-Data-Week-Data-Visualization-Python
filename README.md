@@ -7,10 +7,10 @@ Developed by: Pranathi Srirangam (Computing Fellow), Xueqing Ma (Computing Fello
 This is an introductory workshop on data visualization using Python and NYC public data.  During the workshop, students will work in Python, using data visualization library Altair and data analysis library Pandas, to create basic data visualizations.  We introduce basics of Python, Altair, and Pandas using simple example data before work with an NYC eviction dataset (imported from URL as a JSON object). 
 
 ### Workshop flow:
-Warming up with basics of Python: types (strings and numerical), functions, and dictionaries
-Basics of Altair and Pandas working with a simple dictionary dataset: intro to Pandas dataframes; creating a simple chart from a dataframe using Altair; manipulating color
-Working with NYC public data: working with JSON data; manipulating data using Pandas; generating a bar chart using Altair; datatypes in Altair's "encode"
-Building skills: layering plots using Altair; conditional color-coding; adjusting titles and style; remaining questions
+- Warming up with basics of Python: types (strings and numerical), functions, and dictionaries
+- Basics of Altair and Pandas working with a simple dictionary dataset: intro to Pandas dataframes; creating a simple chart from a dataframe using Altair; manipulating color
+- Working with NYC public data: working with JSON data; manipulating data using Pandas; generating a bar chart using Altair; datatypes in Altair's "encode"
+- Building skills: layering plots using Altair; conditional color-coding; adjusting titles and style; remaining questions
 
 ### In this repository:
 NYC Open Data Week 2022 Student Template (Student Template):
